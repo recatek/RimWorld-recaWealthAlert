@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>recaWealthAlert</name>
+  <author>recatek</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>recatek.WealthAlert</packageId>
+  <description>
+- Adds a persistent alert to the right side of the screen showing the current map's wealth.
+  </description>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+</ModMetaData>
